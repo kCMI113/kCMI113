@@ -1,4 +1,4 @@
-### 🐢 Kang chan mi 's github 🐢
+
 -----
 ### About me 
 👩‍🎓 I'm double majoring in Statistics and Computer Engineering.
