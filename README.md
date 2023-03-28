@@ -4,7 +4,8 @@
 👩‍🎓 I'm double majoring in Statistics and Computer Engineering.
 
 🌱 I’m currently learning Ai
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kCMI113&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kCMI113&layout=compact&theme=tokyonight)
 <!--
 **kCMI113/kCMI113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
