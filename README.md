@@ -66,7 +66,7 @@ Plan/Elevation 도면을 결합해 3D 좌표와 모듈 간 예상 거리를 추�
 프로필·콘텐츠 정보를 결합해 인플루언서의 상대적 순위와 등급을 산출하는 ML framework · *마케팅 기업 산학과제, 2025*
 
 **부산 도시철도 역별·시간대별 탑승객 수 예측** `LightGBM` `CatBoost` `Ensemble`  
-공공데이터와 외부 데이터를 활용해 역별·시간대별 탑승객 수를 예측하는 GBDT-based ensemble model · *부산대학교 통계학과 데이터분석 공모전, <ins>최우수상</ins>, 2024*
+공공데이터와 외부 데이터를 활용해 역별·시간대별 탑승객 수를 예측하는 GBDT-based ensemble model · *부산대학교 통계학과 데이터분석 공모전, 2024* · <ins>최우수상</ins>
 
 **생성 모델을 이용한 패션 추천 모델 연구** `Recommendation` `Multimodal Learning` `Streamlit`  
 사용자의 검색 의도를 생성 이미지로 구체화하고 이를 추천에 활용하는 fashion recommendation project · *학부 졸업과제, 2024*
@@ -75,7 +75,7 @@ Plan/Elevation 도면을 결합해 3D 좌표와 모듈 간 예상 거리를 추�
 이미지 입력을 기반으로 분위기에 맞는 음악을 추천하는 recommendation service · *NAVER Connect Foundation Boostcamp AI Tech, 2023*
 
 **DKT — 학습자 문제 정답 예측** `Transformer` `CatBoost` `Feature Engineering`  
-학습자의 interaction history를 기반으로 다음 문제의 정답 여부를 예측하는 knowledge tracing project · *2023* · <ins>Team Private 3rd</ins>
+학습자의 interaction history를 기반으로 다음 문제의 정답 여부를 예측하는 knowledge tracing project · *NAVER Connect Foundation Boostcamp AI Tech, 2023* · <ins>Team Private 3rd</ins>
 
 ---
 
